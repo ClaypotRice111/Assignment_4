@@ -309,6 +309,96 @@ _tests/_test_files/testB.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\testB.dir\build.make CMakeFiles/testB.dir/_tests/_test_files/testB.cpp.s
 .PHONY : _tests/_test_files/testB.cpp.s
 
+includes/HandleException.obj: includes/HandleException.cpp.obj
+.PHONY : includes/HandleException.obj
+
+# target to build an object file
+includes/HandleException.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/includes/HandleException.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\basic_test.dir\build.make CMakeFiles/basic_test.dir/includes/HandleException.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\testB.dir\build.make CMakeFiles/testB.dir/includes/HandleException.cpp.obj
+.PHONY : includes/HandleException.cpp.obj
+
+includes/HandleException.i: includes/HandleException.cpp.i
+.PHONY : includes/HandleException.i
+
+# target to preprocess a source file
+includes/HandleException.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/includes/HandleException.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\basic_test.dir\build.make CMakeFiles/basic_test.dir/includes/HandleException.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\testB.dir\build.make CMakeFiles/testB.dir/includes/HandleException.cpp.i
+.PHONY : includes/HandleException.cpp.i
+
+includes/HandleException.s: includes/HandleException.cpp.s
+.PHONY : includes/HandleException.s
+
+# target to generate assembly for a file
+includes/HandleException.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/includes/HandleException.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\basic_test.dir\build.make CMakeFiles/basic_test.dir/includes/HandleException.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\testB.dir\build.make CMakeFiles/testB.dir/includes/HandleException.cpp.s
+.PHONY : includes/HandleException.cpp.s
+
+includes/Media.obj: includes/Media.cpp.obj
+.PHONY : includes/Media.obj
+
+# target to build an object file
+includes/Media.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/includes/Media.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\basic_test.dir\build.make CMakeFiles/basic_test.dir/includes/Media.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\testB.dir\build.make CMakeFiles/testB.dir/includes/Media.cpp.obj
+.PHONY : includes/Media.cpp.obj
+
+includes/Media.i: includes/Media.cpp.i
+.PHONY : includes/Media.i
+
+# target to preprocess a source file
+includes/Media.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/includes/Media.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\basic_test.dir\build.make CMakeFiles/basic_test.dir/includes/Media.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\testB.dir\build.make CMakeFiles/testB.dir/includes/Media.cpp.i
+.PHONY : includes/Media.cpp.i
+
+includes/Media.s: includes/Media.cpp.s
+.PHONY : includes/Media.s
+
+# target to generate assembly for a file
+includes/Media.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/includes/Media.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\basic_test.dir\build.make CMakeFiles/basic_test.dir/includes/Media.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\testB.dir\build.make CMakeFiles/testB.dir/includes/Media.cpp.s
+.PHONY : includes/Media.cpp.s
+
+includes/SmartCarrier.obj: includes/SmartCarrier.cpp.obj
+.PHONY : includes/SmartCarrier.obj
+
+# target to build an object file
+includes/SmartCarrier.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/includes/SmartCarrier.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\basic_test.dir\build.make CMakeFiles/basic_test.dir/includes/SmartCarrier.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\testB.dir\build.make CMakeFiles/testB.dir/includes/SmartCarrier.cpp.obj
+.PHONY : includes/SmartCarrier.cpp.obj
+
+includes/SmartCarrier.i: includes/SmartCarrier.cpp.i
+.PHONY : includes/SmartCarrier.i
+
+# target to preprocess a source file
+includes/SmartCarrier.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/includes/SmartCarrier.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\basic_test.dir\build.make CMakeFiles/basic_test.dir/includes/SmartCarrier.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\testB.dir\build.make CMakeFiles/testB.dir/includes/SmartCarrier.cpp.i
+.PHONY : includes/SmartCarrier.cpp.i
+
+includes/SmartCarrier.s: includes/SmartCarrier.cpp.s
+.PHONY : includes/SmartCarrier.s
+
+# target to generate assembly for a file
+includes/SmartCarrier.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/includes/SmartCarrier.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\basic_test.dir\build.make CMakeFiles/basic_test.dir/includes/SmartCarrier.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\testB.dir\build.make CMakeFiles/testB.dir/includes/SmartCarrier.cpp.s
+.PHONY : includes/SmartCarrier.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -359,6 +449,15 @@ help:
 	@echo ... _tests/_test_files/testB.obj
 	@echo ... _tests/_test_files/testB.i
 	@echo ... _tests/_test_files/testB.s
+	@echo ... includes/HandleException.obj
+	@echo ... includes/HandleException.i
+	@echo ... includes/HandleException.s
+	@echo ... includes/Media.obj
+	@echo ... includes/Media.i
+	@echo ... includes/Media.s
+	@echo ... includes/SmartCarrier.obj
+	@echo ... includes/SmartCarrier.i
+	@echo ... includes/SmartCarrier.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

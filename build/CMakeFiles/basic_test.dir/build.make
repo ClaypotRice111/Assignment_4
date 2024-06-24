@@ -83,20 +83,71 @@ CMakeFiles/basic_test.dir/_tests/_test_files/basic_test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/basic_test.dir/_tests/_test_files/basic_test.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\lib\vscode\Assignment_4\_tests\_test_files\basic_test.cpp -o CMakeFiles\basic_test.dir\_tests\_test_files\basic_test.cpp.s
 
+CMakeFiles/basic_test.dir/includes/HandleException.cpp.obj: CMakeFiles/basic_test.dir/flags.make
+CMakeFiles/basic_test.dir/includes/HandleException.cpp.obj: CMakeFiles/basic_test.dir/includes_CXX.rsp
+CMakeFiles/basic_test.dir/includes/HandleException.cpp.obj: D:/lib/vscode/Assignment_4/includes/HandleException.cpp
+CMakeFiles/basic_test.dir/includes/HandleException.cpp.obj: CMakeFiles/basic_test.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\lib\vscode\Assignment_4\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/basic_test.dir/includes/HandleException.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/basic_test.dir/includes/HandleException.cpp.obj -MF CMakeFiles\basic_test.dir\includes\HandleException.cpp.obj.d -o CMakeFiles\basic_test.dir\includes\HandleException.cpp.obj -c D:\lib\vscode\Assignment_4\includes\HandleException.cpp
+
+CMakeFiles/basic_test.dir/includes/HandleException.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/basic_test.dir/includes/HandleException.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\lib\vscode\Assignment_4\includes\HandleException.cpp > CMakeFiles\basic_test.dir\includes\HandleException.cpp.i
+
+CMakeFiles/basic_test.dir/includes/HandleException.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/basic_test.dir/includes/HandleException.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\lib\vscode\Assignment_4\includes\HandleException.cpp -o CMakeFiles\basic_test.dir\includes\HandleException.cpp.s
+
+CMakeFiles/basic_test.dir/includes/Media.cpp.obj: CMakeFiles/basic_test.dir/flags.make
+CMakeFiles/basic_test.dir/includes/Media.cpp.obj: CMakeFiles/basic_test.dir/includes_CXX.rsp
+CMakeFiles/basic_test.dir/includes/Media.cpp.obj: D:/lib/vscode/Assignment_4/includes/Media.cpp
+CMakeFiles/basic_test.dir/includes/Media.cpp.obj: CMakeFiles/basic_test.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\lib\vscode\Assignment_4\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/basic_test.dir/includes/Media.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/basic_test.dir/includes/Media.cpp.obj -MF CMakeFiles\basic_test.dir\includes\Media.cpp.obj.d -o CMakeFiles\basic_test.dir\includes\Media.cpp.obj -c D:\lib\vscode\Assignment_4\includes\Media.cpp
+
+CMakeFiles/basic_test.dir/includes/Media.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/basic_test.dir/includes/Media.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\lib\vscode\Assignment_4\includes\Media.cpp > CMakeFiles\basic_test.dir\includes\Media.cpp.i
+
+CMakeFiles/basic_test.dir/includes/Media.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/basic_test.dir/includes/Media.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\lib\vscode\Assignment_4\includes\Media.cpp -o CMakeFiles\basic_test.dir\includes\Media.cpp.s
+
+CMakeFiles/basic_test.dir/includes/SmartCarrier.cpp.obj: CMakeFiles/basic_test.dir/flags.make
+CMakeFiles/basic_test.dir/includes/SmartCarrier.cpp.obj: CMakeFiles/basic_test.dir/includes_CXX.rsp
+CMakeFiles/basic_test.dir/includes/SmartCarrier.cpp.obj: D:/lib/vscode/Assignment_4/includes/SmartCarrier.cpp
+CMakeFiles/basic_test.dir/includes/SmartCarrier.cpp.obj: CMakeFiles/basic_test.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\lib\vscode\Assignment_4\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/basic_test.dir/includes/SmartCarrier.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/basic_test.dir/includes/SmartCarrier.cpp.obj -MF CMakeFiles\basic_test.dir\includes\SmartCarrier.cpp.obj.d -o CMakeFiles\basic_test.dir\includes\SmartCarrier.cpp.obj -c D:\lib\vscode\Assignment_4\includes\SmartCarrier.cpp
+
+CMakeFiles/basic_test.dir/includes/SmartCarrier.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/basic_test.dir/includes/SmartCarrier.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\lib\vscode\Assignment_4\includes\SmartCarrier.cpp > CMakeFiles\basic_test.dir\includes\SmartCarrier.cpp.i
+
+CMakeFiles/basic_test.dir/includes/SmartCarrier.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/basic_test.dir/includes/SmartCarrier.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\lib\vscode\Assignment_4\includes\SmartCarrier.cpp -o CMakeFiles\basic_test.dir\includes\SmartCarrier.cpp.s
+
 # Object files for target basic_test
 basic_test_OBJECTS = \
-"CMakeFiles/basic_test.dir/_tests/_test_files/basic_test.cpp.obj"
+"CMakeFiles/basic_test.dir/_tests/_test_files/basic_test.cpp.obj" \
+"CMakeFiles/basic_test.dir/includes/HandleException.cpp.obj" \
+"CMakeFiles/basic_test.dir/includes/Media.cpp.obj" \
+"CMakeFiles/basic_test.dir/includes/SmartCarrier.cpp.obj"
 
 # External object files for target basic_test
 basic_test_EXTERNAL_OBJECTS =
 
 bin/basic_test.exe: CMakeFiles/basic_test.dir/_tests/_test_files/basic_test.cpp.obj
+bin/basic_test.exe: CMakeFiles/basic_test.dir/includes/HandleException.cpp.obj
+bin/basic_test.exe: CMakeFiles/basic_test.dir/includes/Media.cpp.obj
+bin/basic_test.exe: CMakeFiles/basic_test.dir/includes/SmartCarrier.cpp.obj
 bin/basic_test.exe: CMakeFiles/basic_test.dir/build.make
 bin/basic_test.exe: lib/libgtest.a
 bin/basic_test.exe: CMakeFiles/basic_test.dir/linkLibs.rsp
 bin/basic_test.exe: CMakeFiles/basic_test.dir/objects1.rsp
 bin/basic_test.exe: CMakeFiles/basic_test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\lib\vscode\Assignment_4\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable bin\basic_test.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\lib\vscode\Assignment_4\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable bin\basic_test.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\basic_test.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -7,15 +7,69 @@
 },
 {
   "directory": "D:/lib/vscode/Assignment_4/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\HandleException.cpp.obj -c D:\\lib\\vscode\\Assignment_4\\includes\\HandleException.cpp",
+  "file": "D:/lib/vscode/Assignment_4/includes/HandleException.cpp",
+  "output": "CMakeFiles/main.dir/includes/HandleException.cpp.obj"
+},
+{
+  "directory": "D:/lib/vscode/Assignment_4/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\Media.cpp.obj -c D:\\lib\\vscode\\Assignment_4\\includes\\Media.cpp",
+  "file": "D:/lib/vscode/Assignment_4/includes/Media.cpp",
+  "output": "CMakeFiles/main.dir/includes/Media.cpp.obj"
+},
+{
+  "directory": "D:/lib/vscode/Assignment_4/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -fprofile-arcs -ftest-coverage -g -std=gnu++11 -o CMakeFiles\\main.dir\\includes\\SmartCarrier.cpp.obj -c D:\\lib\\vscode\\Assignment_4\\includes\\SmartCarrier.cpp",
+  "file": "D:/lib/vscode/Assignment_4/includes/SmartCarrier.cpp",
+  "output": "CMakeFiles/main.dir/includes/SmartCarrier.cpp.obj"
+},
+{
+  "directory": "D:/lib/vscode/Assignment_4/build",
   "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++14 -o CMakeFiles\\basic_test.dir\\_tests\\_test_files\\basic_test.cpp.obj -c D:\\lib\\vscode\\Assignment_4\\_tests\\_test_files\\basic_test.cpp",
   "file": "D:/lib/vscode/Assignment_4/_tests/_test_files/basic_test.cpp",
   "output": "CMakeFiles/basic_test.dir/_tests/_test_files/basic_test.cpp.obj"
 },
 {
   "directory": "D:/lib/vscode/Assignment_4/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++14 -o CMakeFiles\\basic_test.dir\\includes\\HandleException.cpp.obj -c D:\\lib\\vscode\\Assignment_4\\includes\\HandleException.cpp",
+  "file": "D:/lib/vscode/Assignment_4/includes/HandleException.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/HandleException.cpp.obj"
+},
+{
+  "directory": "D:/lib/vscode/Assignment_4/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++14 -o CMakeFiles\\basic_test.dir\\includes\\Media.cpp.obj -c D:\\lib\\vscode\\Assignment_4\\includes\\Media.cpp",
+  "file": "D:/lib/vscode/Assignment_4/includes/Media.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/Media.cpp.obj"
+},
+{
+  "directory": "D:/lib/vscode/Assignment_4/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/basic_test.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++14 -o CMakeFiles\\basic_test.dir\\includes\\SmartCarrier.cpp.obj -c D:\\lib\\vscode\\Assignment_4\\includes\\SmartCarrier.cpp",
+  "file": "D:/lib/vscode/Assignment_4/includes/SmartCarrier.cpp",
+  "output": "CMakeFiles/basic_test.dir/includes/SmartCarrier.cpp.obj"
+},
+{
+  "directory": "D:/lib/vscode/Assignment_4/build",
   "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++14 -o CMakeFiles\\testB.dir\\_tests\\_test_files\\testB.cpp.obj -c D:\\lib\\vscode\\Assignment_4\\_tests\\_test_files\\testB.cpp",
   "file": "D:/lib/vscode/Assignment_4/_tests/_test_files/testB.cpp",
   "output": "CMakeFiles/testB.dir/_tests/_test_files/testB.cpp.obj"
+},
+{
+  "directory": "D:/lib/vscode/Assignment_4/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++14 -o CMakeFiles\\testB.dir\\includes\\HandleException.cpp.obj -c D:\\lib\\vscode\\Assignment_4\\includes\\HandleException.cpp",
+  "file": "D:/lib/vscode/Assignment_4/includes/HandleException.cpp",
+  "output": "CMakeFiles/testB.dir/includes/HandleException.cpp.obj"
+},
+{
+  "directory": "D:/lib/vscode/Assignment_4/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++14 -o CMakeFiles\\testB.dir\\includes\\Media.cpp.obj -c D:\\lib\\vscode\\Assignment_4\\includes\\Media.cpp",
+  "file": "D:/lib/vscode/Assignment_4/includes/Media.cpp",
+  "output": "CMakeFiles/testB.dir/includes/Media.cpp.obj"
+},
+{
+  "directory": "D:/lib/vscode/Assignment_4/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/testB.dir/includes_CXX.rsp  -fprofile-arcs -ftest-coverage -g -std=gnu++14 -o CMakeFiles\\testB.dir\\includes\\SmartCarrier.cpp.obj -c D:\\lib\\vscode\\Assignment_4\\includes\\SmartCarrier.cpp",
+  "file": "D:/lib/vscode/Assignment_4/includes/SmartCarrier.cpp",
+  "output": "CMakeFiles/testB.dir/includes/SmartCarrier.cpp.obj"
 },
 {
   "directory": "D:/lib/vscode/Assignment_4/build/_deps/googletest-build/googlemock",

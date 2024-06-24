@@ -1,13 +1,12 @@
 #include <iostream>
 #include "includes/SmartCarrier.h"
 
-using namespace std;
 
 int main(int argc, char* argv[]) {
-    SmartCarrier smart_carrier;
-    smart_carrier.Init();
-    smart_carrier.StartService();
-    
+    SmartCarrier* smart_carrier = new SmartCarrier("Foothill wireless");
+    smart_carrier->Init();
+    smart_carrier->StartService();
+    delete smart_carrier;
 	return 0;
 }
 

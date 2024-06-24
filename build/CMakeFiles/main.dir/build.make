@@ -82,19 +82,67 @@ CMakeFiles/main.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/main.cpp.s"
 	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\lib\vscode\Assignment_4\main.cpp -o CMakeFiles\main.dir\main.cpp.s
 
+CMakeFiles/main.dir/includes/HandleException.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/includes/HandleException.cpp.obj: D:/lib/vscode/Assignment_4/includes/HandleException.cpp
+CMakeFiles/main.dir/includes/HandleException.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\lib\vscode\Assignment_4\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/includes/HandleException.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/includes/HandleException.cpp.obj -MF CMakeFiles\main.dir\includes\HandleException.cpp.obj.d -o CMakeFiles\main.dir\includes\HandleException.cpp.obj -c D:\lib\vscode\Assignment_4\includes\HandleException.cpp
+
+CMakeFiles/main.dir/includes/HandleException.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/includes/HandleException.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\lib\vscode\Assignment_4\includes\HandleException.cpp > CMakeFiles\main.dir\includes\HandleException.cpp.i
+
+CMakeFiles/main.dir/includes/HandleException.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/includes/HandleException.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\lib\vscode\Assignment_4\includes\HandleException.cpp -o CMakeFiles\main.dir\includes\HandleException.cpp.s
+
+CMakeFiles/main.dir/includes/Media.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/includes/Media.cpp.obj: D:/lib/vscode/Assignment_4/includes/Media.cpp
+CMakeFiles/main.dir/includes/Media.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\lib\vscode\Assignment_4\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/main.dir/includes/Media.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/includes/Media.cpp.obj -MF CMakeFiles\main.dir\includes\Media.cpp.obj.d -o CMakeFiles\main.dir\includes\Media.cpp.obj -c D:\lib\vscode\Assignment_4\includes\Media.cpp
+
+CMakeFiles/main.dir/includes/Media.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/includes/Media.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\lib\vscode\Assignment_4\includes\Media.cpp > CMakeFiles\main.dir\includes\Media.cpp.i
+
+CMakeFiles/main.dir/includes/Media.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/includes/Media.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\lib\vscode\Assignment_4\includes\Media.cpp -o CMakeFiles\main.dir\includes\Media.cpp.s
+
+CMakeFiles/main.dir/includes/SmartCarrier.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/includes/SmartCarrier.cpp.obj: D:/lib/vscode/Assignment_4/includes/SmartCarrier.cpp
+CMakeFiles/main.dir/includes/SmartCarrier.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\lib\vscode\Assignment_4\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/main.dir/includes/SmartCarrier.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/includes/SmartCarrier.cpp.obj -MF CMakeFiles\main.dir\includes\SmartCarrier.cpp.obj.d -o CMakeFiles\main.dir\includes\SmartCarrier.cpp.obj -c D:\lib\vscode\Assignment_4\includes\SmartCarrier.cpp
+
+CMakeFiles/main.dir/includes/SmartCarrier.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/includes/SmartCarrier.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\lib\vscode\Assignment_4\includes\SmartCarrier.cpp > CMakeFiles\main.dir\includes\SmartCarrier.cpp.i
+
+CMakeFiles/main.dir/includes/SmartCarrier.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/includes/SmartCarrier.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\lib\vscode\Assignment_4\includes\SmartCarrier.cpp -o CMakeFiles\main.dir\includes\SmartCarrier.cpp.s
+
 # Object files for target main
 main_OBJECTS = \
-"CMakeFiles/main.dir/main.cpp.obj"
+"CMakeFiles/main.dir/main.cpp.obj" \
+"CMakeFiles/main.dir/includes/HandleException.cpp.obj" \
+"CMakeFiles/main.dir/includes/Media.cpp.obj" \
+"CMakeFiles/main.dir/includes/SmartCarrier.cpp.obj"
 
 # External object files for target main
 main_EXTERNAL_OBJECTS =
 
 bin/main.exe: CMakeFiles/main.dir/main.cpp.obj
+bin/main.exe: CMakeFiles/main.dir/includes/HandleException.cpp.obj
+bin/main.exe: CMakeFiles/main.dir/includes/Media.cpp.obj
+bin/main.exe: CMakeFiles/main.dir/includes/SmartCarrier.cpp.obj
 bin/main.exe: CMakeFiles/main.dir/build.make
 bin/main.exe: CMakeFiles/main.dir/linkLibs.rsp
 bin/main.exe: CMakeFiles/main.dir/objects1.rsp
 bin/main.exe: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\lib\vscode\Assignment_4\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable bin\main.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\lib\vscode\Assignment_4\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable bin\main.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\main.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
