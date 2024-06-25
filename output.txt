@@ -1,0 +1,159 @@
+PS D:\lib\vscode\Assignment_4\build\bin> ."D:/lib/vscode/Assignment_4/build/bin/main.exe"
+
+Foothill wireless
+ACCOUNT ADMIN
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+Enter your choice: 1
+   Phone Number       Messages      Size (MB)    Charge ($)
+   408-111-1111              6        4922.04         246.10
+   408-222-2222              1         100.00           5.00
+   408-333-3333              0           0.00           0.00
+   408-333-4444              2        1120.00          56.00
+   408-444-5555              1         100.01           5.00
+   408-555-0001              2         200.00          10.00
+   408-555-0002              2         280.00          14.00
+   408-555-0003              3         200.00          10.00
+   408-555-6666              2        3090.00         154.50
+   510-111-1111              3         190.90           9.54
+   650-555-5555              2          66.25           3.53
+   669-444-4444              1         250.00          12.50
+   831-777-7777              2         240.00          12.00
+   831-888-8888              2        7875.65         393.78
+
+Foothill wireless
+ACCOUNT ADMIN
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+Enter your choice: 2
+Enter phone number: 123-123-1234
+Error: Account 123-123-1234 does not exist!
+
+Foothill wireless
+ACCOUNT ADMIN
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+Enter your choice: 2
+Enter phone number: 408-222-2222
+Enter media size (MB): 3124.56
+Enter recipient phone number: 408-222-2222
+
+Foothill wireless
+ACCOUNT ADMIN
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+Enter your choice: 3
+Enter phone number: 123-123-1256
+Error: Account 123-123-1256 does not exist!
+
+Foothill wireless
+ACCOUNT ADMIN
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+Enter your choice: 3
+Enter phone number: 408-333-3333
+Purged 0.00 MB from account 408-333-3333.
+
+Foothill wireless
+ACCOUNT ADMIN
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+Enter your choice: 3
+Enter phone number: 408-111-1111
+Purged 4898.96 MB from account 408-111-1111.
+
+Foothill wireless
+ACCOUNT ADMIN
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+Enter your choice: 3
+Enter phone number: 408-555-6666
+Purged 3040.00 MB from account 408-555-6666.
+
+Foothill wireless
+ACCOUNT ADMIN
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+Enter your choice: 3
+Enter phone number: 831-888-8888.
+Error: Account 831-888-8888 does not exist!
+
+Foothill wireless
+ACCOUNT ADMIN
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+Enter your choice: 4
+Enter phone number: 123-123-4567
+Error: Account 123-123-4567 does not exist!
+
+Foothill wireless
+ACCOUNT ADMIN
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+Enter your choice: 4           
+Enter phone number: 669-444-4444
+
+Foothill wireless
+ACCOUNT ADMIN
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+Enter your choice: 1
+   Phone Number       Messages      Size (MB)    Charge ($)
+   408-111-1111              1          23.08           1.15
+   408-222-2222              2        3224.56         161.23
+   408-333-3333              0           0.00           0.00
+   408-333-4444              2        1120.00          56.00
+   408-444-5555              1         100.01           5.00
+   408-555-0001              2         200.00          10.00
+   408-555-0002              2         280.00          14.00
+   408-555-0003              3         200.00          10.00
+   408-555-6666              1          50.00           2.50
+   510-111-1111              3         190.90           9.54
+   650-555-5555              2          66.25           3.53
+   831-777-7777              2         240.00          12.00
+   831-888-8888              2        7875.65         393.78
+
+Foothill wireless
+ACCOUNT ADMIN
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+Enter your choice: 5
+Quitting...
+libgcov profiling error:D:\lib\vscode\Assignment_4\build\CMakeFiles\main.dir\includes\HandleException.cpp.gcda:overwriting an existing profile data with a different checksum
+PS D:\lib\vscode\Assignment_4\build\bin>

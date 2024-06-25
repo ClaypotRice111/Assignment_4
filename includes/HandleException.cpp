@@ -1,13 +1,11 @@
 #include "HandleException.h"
 
 AccountNotFoundException::AccountNotFoundException(const string& phone){
-    this->phone_number = phone;
+    this->message = "Account " + phone + " does not exist!";
 };
 
 AccountNotFoundException::~AccountNotFoundException(){};
 
-const char* AccountNotFoundException::what() const noexcept{
-    string message;
-    message = "Account " + phone_number + " does not exist!";
+const char* AccountNotFoundException::what() const noexcept {
     return message.c_str();
 }

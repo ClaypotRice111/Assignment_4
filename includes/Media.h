@@ -16,6 +16,7 @@ public:
 
     // accessor & mutator
     double get_size() const; 
+    // void set_size(double new_size);
     void set_size(const double& new_size); 
 
     // member function to calculate charge

@@ -28,7 +28,6 @@ private:
     // which is receiver's phone number
     string to; 
     T m_data; 
-
 };
 
 
@@ -40,7 +39,7 @@ const string Message<T>::DEFAULT_TO = "000-000-0000";
 template <typename T>
 Message<T>::Message(){
     this->to = Message<T>::DEFAULT_TO;
-    this->m_data = T();
+    this->m_data = T(); // call it's defualt construtor to initial
 }
 
 

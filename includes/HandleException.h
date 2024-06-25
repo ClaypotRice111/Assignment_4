@@ -25,7 +25,7 @@ public:
     
     virtual const char* what() const noexcept;
 private:
-    string phone_number; // store phone_number
+    string message;
 };
 
 
